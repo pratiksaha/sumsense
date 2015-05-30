@@ -1,0 +1,17 @@
+CC = g++
+CFLAGS = -O3 -Wimplicit
+INCLUDES = -I/usr/local/WordNet-3.0/include
+LFLAGS = -L/usr/local/WordNet-3.0/lib
+LIBS = -lm -lWN
+SRCS = main.cpp stage1.cpp stage2.cpp write_record.cpp
+OBJS = main.o stage1.o stage2.o write_record.o
+HDR = sum.h stage1.h  stage2.h write_record.h
+all: sfs
+
+$(OBJ) : $(HDR)
+
+ofiles: g++ -c main.cpp stage1.cpp write_record.cpp
+	g++ -c -I/usr/local/WordNet-3.0/include stage2.cpp -L/usr/local/WordNet-3.0/lib -lWN
+
+sfs : main.o stage1.o stage2.o write_record.o
+	g++ -I/usr/local/WordNet-3.0/include main.o stage1.o stage2.o write_record.o -L/usr/local/WordNet-3.0/lib -lWN -o sumsense

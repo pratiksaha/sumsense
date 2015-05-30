@@ -1,0 +1,2378 @@
+20
+linecount = 36
+I am a dynamic figure, often seen scaling walls and crushing ice.
+ I have been known to remodel train stations on my lunch breaks, making them more efficient in the area of heat retention.
+ I translate ethnic slurs for Cuban refugees, I write award-winning operas, I manage time efficiently.
+ Occasionally, I tread water for three days in a row.
+I woo women with my sensuous and godlike trombone playing, I can pilot bicycles up severe inclines with unflagging speed, and I cook Thirty-Minute Brownies in twenty minutes.
+ I am an expert in stucco, a veteran in love, and an outlaw in Peru.
+Using only a hoe and a large glass of water, I once single-handedly defended a small village in the Amazon Basin from a horde of ferocious army ants.
+ I play bluegrass cello, I was scouted by the Mets, I am the subject of numerous documentaries.
+ When I'm bored, I build large suspension bridges in my yard.
+ I enjoy urban hang gliding.
+ On Wednesdays, after school, I repair electrical appliances free of charge.
+I am an abstract artist, a concrete analyst, and a ruthless bookie.
+ Critics worldwide swoon over my original line of corduroy evening wear.
+ I don't perspire.
+ I am a private citizen, yet I receive fan mail.
+ I have been caller number nine and have won the weekend passes.
+ Last summer I toured New Jersey with a traveling centrifugal-force demonstration.
+ I bat .
+400.
+ My deft floral arrangements have earned me fame in international botany circles.
+ Children trust me.
+I can hurl tennis rackets at small moving objects with deadly accuracy.
+ I once read Paradise Lost, Moby Dick, and David Copperfield in one day and still had time to refurbish an entire dining room that evening.
+ I know the exact location of every food item in the supermarket.
+ I have performed several covert operations for the CIA.
+ I sleep once a week; when I do sleep, I sleep in a chair.
+ While on vacation in Canada, I successfully negotiated with a group of terrorists who had seized a small bakery.
+ The laws of physics do not apply to me.
+I balance, I weave, I dodge, I frolic, and my bills are all paid.
+ On weekends, to let off steam, I participate in full-contact origami.
+ Years ago I discovered the meaning of life but forgot to write it down.
+ I have made extraordinary four course meals using only a mouli and a toaster oven.
+ I breed prizewinning clams.
+ I have won bullfights in San Juan, cliff-diving competitions in Sri Lanka, and spelling bees at the Kremlin.
+ I have played Hamlet, I have performed open-heart surgery, and I have spoken with Elvis.
+But I have not yet gone to college.
+I.p
+I
+am.v
+a
+dynamic.n
+dynamic
+figure.n
+figure
+often
+seen.v
+seen
+scaling.v
+scaling
+walls.n
+walls
+and
+crushing.v
+crushing
+ice.n
+ice
+I.p dynamic.n figure.n seen.v scaling.v walls.n crushing.v ice.n
+I.p
+I
+have.v
+been.v
+known.v
+known
+to
+remodel.v
+remodel
+train.n
+train
+stations.n
+stations
+on
+my
+lunch.n
+lunch
+breaks.n
+breaks
+making.g
+making
+them
+more
+more
+efficient.a
+efficient
+in
+the
+area.n
+area
+of
+heat.n
+heat
+retention.n
+retention
+I.p known.v remodel.v train.n stations.n lunch.n breaks.n making.g  efficient.a area.n heat.n retention.n
+I.p
+I
+translate.v
+translate
+ethnic.a
+ethnic
+slurs.n
+slurs
+for.p
+Cuban.n
+Cuban
+refugees.n
+refugees
+I.p
+I
+write.v
+write
+award-winning
+award-winning
+operas.n
+operas
+I.p
+I
+manage.v
+manage
+time.v
+time
+efficiently
+efficiently
+I.p translate.v ethnic.a slurs.n Cuban.n refugees.n I.p write.v  operas.n I.p manage.v time.v 
+Occasionally
+Occasionally
+I.p
+I
+tread.v
+tread
+water.n
+water
+for.p
+three
+three
+days.n
+days
+in
+a
+row.n
+row
+I.p tread.v water.n  days.n row.n
+I.p
+I
+woo.v
+woo
+women.n
+women
+with
+my
+sensuous.a
+sensuous
+and
+godlike.a
+godlike
+trombone.n
+trombone
+playing.v
+playing
+I.p
+I
+can.v
+pilot.v
+pilot
+bicycles.n
+bicycles
+up
+up
+severe.a
+severe
+inclines.n
+inclines
+with
+speed.n
+speed
+and
+I.p
+I
+cook.v
+cook
+Thirty-Minute
+Thirty-Minute
+Brownies
+Brownies
+in
+twenty
+twenty
+minutes.n
+minutes
+I.p woo.v women.n sensuous.a godlike.a trombone.n playing.v I.p pilot.v bicycles.n  severe.a inclines.n speed.n I.p cook.v    minutes.n
+I.p
+I
+am.v
+an
+expert.n
+expert
+in
+stucco.n
+stucco
+a
+veteran.n
+veteran
+in
+love.n
+love
+and
+an
+outlaw.n
+outlaw
+in
+Peru
+Peru
+I.p expert.n stucco.n veteran.n love.n outlaw.n 
+Using.g
+Using
+only
+a
+hoe.n
+hoe
+and
+a
+large.a
+large
+glass.n
+glass
+of
+water.n
+water
+I.p
+I
+once
+once
+defended.v
+defended
+a
+small.a
+small
+village.n
+village
+in
+the
+Amazon
+Amazon
+Basin
+Basin
+from
+a
+horde.n
+horde
+of
+ferocious.a
+ferocious
+army.n
+army
+ants.n
+ants
+Using.g hoe.n large.a glass.n water.n I.p  defended.v small.a village.n   horde.n ferocious.a army.n ants.n
+I.p
+I
+play.v
+play
+bluegrass[?].n
+bluegrass[?]
+I.p
+I
+was.v
+scouted.v
+scouted
+by
+the
+Mets
+Mets
+I.p
+I
+the
+subject.n
+subject
+of
+numerous.a
+numerous
+I.p play.v bluegrass[?].n I.p scouted.v  I.p subject.n numerous.a
+When
+When
+bored.v
+bored
+I.p
+I
+build.v
+build
+large.a
+large
+suspension.n
+suspension
+bridges.n
+bridges
+in
+my
+yard.n
+yard
+bored.v I.p build.v large.a suspension.n bridges.n yard.n
+I.p
+I
+enjoy.v
+enjoy
+urban.a
+urban
+gliding.v
+gliding
+I.p enjoy.v urban.a gliding.v
+On
+On
+Wednesdays
+Wednesdays
+after
+school.n
+school
+I.p
+I
+repair.v
+repair
+electrical.a
+electrical
+appliances.n
+appliances
+free.a
+free
+of
+charge.n
+charge
+school.n I.p repair.v electrical.a appliances.n free.a charge.n
+I.p
+I
+am.v
+an
+abstract.n
+abstract
+artist.n
+artist
+a
+concrete.n
+concrete
+analyst.n
+analyst
+and
+a
+ruthless.a
+ruthless
+bookie.n
+bookie
+I.p abstract.n artist.n concrete.n analyst.n ruthless.a bookie.n
+Critics.n
+Critics
+swoon.v
+swoon
+over
+over
+my
+original.n
+original
+line.n
+line
+of
+corduroy.n
+corduroy
+evening.v
+evening
+Critics.n swoon.v  original.n line.n corduroy.n evening.v
+I.p
+I
+don't
+don't
+perspire.v
+perspire
+I.p  perspire.v
+I.p
+I
+am.v
+a
+private.n
+private
+citizen.n
+citizen
+yet.c
+I.p
+I
+receive.v
+receive
+fan.n
+fan
+mail.n
+mail
+I.p private.n citizen.n I.p receive.v fan.n mail.n
+I.p
+I
+have.v
+been.v
+nine
+nine
+and
+have.v
+won.v
+won
+the
+weekend.n
+weekend
+passes.n
+passes
+I.p  won.v weekend.n passes.n
+Last.a
+Last
+summer.i
+summer
+I.p
+I
+toured.v
+toured
+New
+New
+Jersey
+Jersey
+with
+a
+traveling.v
+traveling
+centrifugal-force
+centrifugal-force
+demonstration.n
+demonstration
+Last.a summer.i I.p toured.v   traveling.v  demonstration.n
+I.p
+I
+bat.v
+bat
+I.p bat.v
+
+My
+My
+deft.a
+deft
+floral.a
+floral
+arrangements.n
+arrangements
+have.v
+earned.v
+earned
+me
+in
+international.a
+international
+botany.n
+botany
+circles.n
+circles
+deft.a floral.a arrangements.n earned.v international.a botany.n circles.n
+Children.n
+Children
+trust.v
+trust
+me
+Children.n trust.v
+I.p
+I
+can.v
+hurl.v
+hurl
+tennis.n
+tennis
+rackets.n
+rackets
+at
+small.a
+small
+moving.a
+moving
+objects.n
+objects
+with
+deadly.a
+deadly
+accuracy.n
+accuracy
+I.p hurl.v tennis.n rackets.n small.a moving.a objects.n deadly.a accuracy.n
+I.p
+I
+once
+once
+read.v
+read
+Paradise
+Paradise
+Lost
+Lost
+Moby
+Moby
+Dick
+Dick
+and
+David
+David
+Copperfield
+Copperfield
+in
+one
+one
+day.n
+day
+and
+still.e
+still
+had
+time.n
+time
+to
+refurbish.v
+refurbish
+an
+entire.a
+entire
+dining.g
+dining
+room.n
+room
+that.r
+evening.t
+evening
+I.p  read.v        day.n still.e time.n refurbish.v entire.a dining.g room.n evening.t
+I.p
+I
+know.v
+know
+the
+exact.a
+exact
+location.n
+location
+of
+every.d
+food.n
+food
+item.n
+item
+in
+the
+supermarket.n
+supermarket
+I.p know.v exact.a location.n food.n item.n supermarket.n
+I.p
+I
+have.v
+performed.v
+performed
+several
+several
+covert.n
+covert
+operations.n
+operations
+for.p
+the
+CIA
+CIA
+I.p performed.v  covert.n operations.n 
+I.p
+I
+sleep.v
+sleep
+once
+once
+a
+week.p
+week
+when
+I.p
+I
+do.v
+sleep.v
+sleep
+I.p
+I
+sleep.v
+sleep
+in
+a
+chair.n
+chair
+I.p sleep.v  week.p I.p sleep.v I.p sleep.v chair.n
+While
+While
+on
+vacation.n
+vacation
+in
+Canada
+Canada
+I.p
+I
+successfully
+successfully
+negotiated.v
+negotiated
+with
+a
+group.n
+group
+of
+terrorists.n
+terrorists
+who
+had
+seized.v
+seized
+a
+small.a
+small
+bakery.n
+bakery
+vacation.n  I.p  negotiated.v group.n terrorists.n seized.v small.a bakery.n
+The
+The
+laws.n
+laws
+of
+physics.n
+physics
+do.v
+not
+apply.v
+apply
+to
+me
+laws.n physics.n apply.v
+I.p
+I
+balance.n
+balance
+I.p
+I
+I.p
+I
+I.p
+I
+and
+my
+bills.n
+bills
+are.v
+all
+paid.v
+paid
+I.p balance.n I.p I.p I.p bills.n paid.v
+On
+On
+weekends.n
+weekends
+let.v
+off
+steam.n
+steam
+I.p
+I
+participate.v
+participate
+in
+full-contact
+full-contact
+origami[?].n
+origami[?]
+weekends.n steam.n I.p participate.v  origami[?].n
+Years.p
+Years
+ago
+ago
+I.p
+I
+discovered.v
+discovered
+the
+meaning.g
+meaning
+of
+life.n
+life
+but
+forgot.v
+forgot
+to
+write.v
+write
+it
+down.e
+down
+Years.p  I.p discovered.v meaning.g life.n forgot.v write.v down.e
+I.p
+I
+have.v
+made.v
+made
+four
+four
+course.n
+course
+meals.n
+meals
+using.v
+using
+only
+a
+mouli[?].n
+mouli[?]
+and
+a
+toaster.n
+toaster
+oven.n
+oven
+I.p made.v  course.n meals.n using.v mouli[?].n toaster.n oven.n
+I.p
+I
+breed.v
+breed
+clams.n
+clams
+I.p breed.v clams.n
+I.p
+I
+have.v
+won.v
+won
+bullfights.n
+bullfights
+in
+San
+San
+Juan
+Juan
+cliff-diving
+cliff-diving
+competitions.n
+competitions
+in
+Sri
+Sri
+Lanka
+Lanka
+and
+spelling.g
+spelling
+bees.n
+bees
+at
+the
+Kremlin
+Kremlin
+I.p won.v bullfights.n    competitions.n   spelling.g bees.n 
+I.p
+I
+have.v
+played.v
+played
+Hamlet
+Hamlet
+I.p
+I
+have.v
+performed.v
+performed
+open-heart
+open-heart
+surgery.n
+surgery
+and
+I.p
+I
+have.v
+spoken.v
+spoken
+with
+Elvis
+Elvis
+I.p played.v  I.p performed.v  surgery.n I.p spoken.v 
+But
+But
+I.p
+I
+have.v
+not
+yet.c
+gone.v
+gone
+to
+college.n
+college
+I.p gone.v college.n
+
+openedI.p dynamic.n figure.n seen.v scaling.v walls.n crushing.v ice.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= dynamic.n
+POS=n
+1 dynamic
+Numsenses 1 Nodecount= 1
+PCH= figure.n
+POS=n
+1 figure
+Numsenses 13 Nodecount= 14
+PCH= seen.v
+POS=v
+2 seen
+2 s Nodecount= 14
+PCH= scaling.v
+POS=v
+2 scaling
+2 sca Nodecount= 14
+PCH= walls.n
+POS=n
+1 walls
+1 wa
+Numsenses 1 Nodecount= 15
+PCH= crushing.v
+POS=v
+2 crushing
+2 cru Nodecount= 15
+PCH= ice.n
+POS=n
+1 ice
+Numsenses 8 Nodecount= 23Num_senses dynamic 1
+Num_senses figure 13
+Num_senses wa 1
+Num_senses ice 8
+
+Assign weights done
+
+Done calculating
+hash = 4712
+Sentence number 1Hash tag=4712hash = 4788
+Sentence number 1Hash tag=4788hash = 4671
+Sentence number 1Hash tag=4671hash = 5074
+Sentence number 1Hash tag=5074I.p known.v remodel.v train.n stations.n lunch.n breaks.n making.g  efficient.a area.n heat.n retention.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= known.v
+POS=v
+2 known
+2 kn Nodecount= 0
+PCH= remodel.v
+POS=v
+2 remodel
+Numsenses 2 Nodecount= 2
+PCH= train.n
+POS=n
+1 train
+Numsenses 6 Nodecount= 8
+PCH= stations.n
+POS=n
+1 stations
+Numsenses 1 Nodecount= 9
+PCH= lunch.n
+POS=n
+1 lunch
+Numsenses 1 Nodecount= 10
+PCH= breaks.n
+POS=n
+1 breaks
+1 bre Nodecount= 10
+PCH= making.g
+POS=g
+4 making Nodecount= 10
+PCH= efficient.a
+POS=a
+3 efficient
+Numsenses 2 Nodecount= 12
+PCH= area.n
+POS=n
+1 area
+Numsenses 6 Nodecount= 18
+PCH= heat.n
+POS=n
+1 heat
+Numsenses 7 Nodecount= 25
+PCH= retention.n
+POS=n
+1 retention
+Numsenses 3 Nodecount= 28Num_senses remodel 2
+Num_senses train 6
+Num_senses stations 1
+Num_senses lunch 1
+Num_senses efficient 2
+Num_senses area 6
+Num_senses heat 7
+Num_senses retention 3
+
+Assign weights done
+
+Done calculating
+hash = 4414
+Sentence number 2Hash tag=4414hash = 4771
+Sentence number 2Hash tag=4771hash = 5078
+Sentence number 2Hash tag=5078hash = 3802
+Sentence number 2Hash tag=3802hash = 5086
+Sentence number 2Hash tag=5086hash = 4701
+Sentence number 2Hash tag=4701hash = 4870
+Sentence number 2Hash tag=4870hash = 4772
+Sentence number 2Hash tag=4772I.p translate.v ethnic.a slurs.n Cuban.n refugees.n I.p write.v  operas.n I.p manage.v time.v  
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= translate.v
+POS=v
+2 translate
+Numsenses 10 Nodecount= 10
+PCH= ethnic.a
+POS=a
+3 ethnic
+Numsenses 2 Nodecount= 12
+PCH= slurs.n
+POS=n
+1 slurs
+1 sl
+Numsenses 1 Nodecount= 13
+PCH= Cuban.n
+POS=n
+1 Cuban
+Numsenses 1 Nodecount= 14
+PCH= refugees.n
+POS=n
+1 refugees
+1 refug Nodecount= 14
+PCH= I.p
+POS=p
+4 I Nodecount= 14
+PCH= write.v
+POS=v
+2 write
+Numsenses 10 Nodecount= 24
+PCH= operas.n
+POS=n
+1 operas
+1 ope Nodecount= 24
+PCH= I.p
+POS=p
+4 I Nodecount= 24
+PCH= manage.v
+POS=v
+2 manage
+Numsenses 7 Nodecount= 31
+PCH= time.v
+POS=v
+2 time
+Numsenses 5 Nodecount= 36Num_senses translate 10
+Num_senses ethnic 2
+Num_senses sl 1
+Num_senses cuban 1
+Num_senses write 10
+Num_senses manage 7
+Num_senses time 5
+
+Assign weights done
+
+Done calculating
+hash = 4612
+Sentence number 3Hash tag=4612hash = 4727
+Sentence number 3Hash tag=4727hash = 4904
+Sentence number 3Hash tag=4904hash = 4358
+Sentence number 3Hash tag=4358hash = 4720
+Sentence number 3Hash tag=4720hash = 4869
+Sentence number 3Hash tag=4869hash = 4841
+Sentence number 3Hash tag=4841I.p tread.v water.n  days.n row.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= tread.v
+POS=v
+2 tread
+Numsenses 6 Nodecount= 6
+PCH= water.n
+POS=n
+1 water
+Numsenses 6 Nodecount= 12
+PCH= days.n
+POS=n
+1 days
+Numsenses 1 Nodecount= 13
+PCH= row.n
+POS=n
+1 row
+Numsenses 7 Nodecount= 20Num_senses tread 6
+Num_senses water 6
+Num_senses days 1
+Num_senses row 7
+
+Assign weights done
+
+Done calculating
+hash = 4116
+Sentence number 4Hash tag=4116hash = 5064
+Sentence number 4Hash tag=5064hash = 4693
+Sentence number 4Hash tag=4693hash = 4880
+Sentence number 4Hash tag=4880I.p woo.v women.n sensuous.a godlike.a trombone.n playing.v I.p pilot.v bicycles.n  severe.a inclines.n speed.n I.p cook.v    minutes.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= woo.v
+POS=v
+2 woo
+Numsenses 2 Nodecount= 2
+PCH= women.n
+POS=n
+1 women
+1 wom Nodecount= 2
+PCH= sensuous.a
+POS=a
+3 sensuous
+Numsenses 1 Nodecount= 3
+PCH= godlike.a
+POS=a
+3 godlike
+Numsenses 2 Nodecount= 5
+PCH= trombone.n
+POS=n
+1 trombone
+Numsenses 1 Nodecount= 6
+PCH= playing.v
+POS=v
+2 playing
+2 pl Nodecount= 6
+PCH= I.p
+POS=p
+4 I Nodecount= 6
+PCH= pilot.v
+POS=v
+2 pilot
+Numsenses 2 Nodecount= 8
+PCH= bicycles.n
+POS=n
+1 bicycles
+1 bicyc Nodecount= 8
+PCH= severe.a
+POS=a
+3 severe
+Numsenses 6 Nodecount= 14
+PCH= inclines.n
+POS=n
+1 inclines
+1 incli Nodecount= 14
+PCH= speed.n
+POS=n
+1 speed
+Numsenses 5 Nodecount= 19
+PCH= I.p
+POS=p
+4 I Nodecount= 19
+PCH= cook.v
+POS=v
+2 cook
+Numsenses 5 Nodecount= 24
+PCH= minutes.n
+POS=n
+1 minutes
+Numsenses 1 Nodecount= 25Num_senses woo 2
+Num_senses sensuous 1
+Num_senses godlike 2
+Num_senses trombone 1
+Num_senses pilot 2
+Num_senses severe 6
+Num_senses speed 5
+Num_senses cook 5
+Num_senses minutes 1
+
+Assign weights done
+
+Done calculating
+hash = 4481
+Sentence number 5Hash tag=4481hash = 4677
+Sentence number 5Hash tag=4677hash = 4840
+Sentence number 5Hash tag=4840hash = 4757
+Sentence number 5Hash tag=4757hash = 4924
+Sentence number 5Hash tag=4924hash = 4761
+Sentence number 5Hash tag=4761hash = 5117
+Sentence number 5Hash tag=5117hash = 4796
+Sentence number 5Hash tag=4796hash = 4682
+Sentence number 5Hash tag=4682I.p expert.n stucco.n veteran.n love.n outlaw.n  
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= expert.n
+POS=n
+1 expert
+Numsenses 1 Nodecount= 1
+PCH= stucco.n
+POS=n
+1 stucco
+Numsenses 1 Nodecount= 2
+PCH= veteran.n
+POS=n
+1 veteran
+Numsenses 3 Nodecount= 5
+PCH= love.n
+POS=n
+1 love
+Numsenses 6 Nodecount= 11
+PCH= outlaw.n
+POS=n
+1 outlaw
+Numsenses 1 Nodecount= 12Num_senses expert 1
+Num_senses stucco 1
+Num_senses veteran 3
+Num_senses love 6
+Num_senses outlaw 1
+
+Assign weights done
+
+Done calculating
+hash = 4949
+Sentence number 6Hash tag=4949hash = 4876
+Sentence number 6Hash tag=4876hash = 4521
+Sentence number 6Hash tag=4521hash = 4599
+Sentence number 6Hash tag=4599hash = 4735
+Sentence number 6Hash tag=4735Using.g hoe.n large.a glass.n water.n I.p  defended.v small.a village.n   horde.n ferocious.a army.n ants.n 
+PCH= Using.g
+POS=g
+4 Using Nodecount= 0
+PCH= hoe.n
+POS=n
+1 hoe
+Numsenses 1 Nodecount= 1
+PCH= large.a
+POS=a
+3 large
+Numsenses 7 Nodecount= 8
+PCH= glass.n
+POS=n
+1 glass
+Numsenses 7 Nodecount= 15
+PCH= water.n
+POS=n
+1 water
+Numsenses 6 Nodecount= 21
+PCH= I.p
+POS=p
+4 I Nodecount= 21
+PCH= defended.v
+POS=v
+2 defended
+2 defe Nodecount= 21
+PCH= small.a
+POS=a
+3 small
+Numsenses 10 Nodecount= 31
+PCH= village.n
+POS=n
+1 village
+Numsenses 3 Nodecount= 34
+PCH= horde.n
+POS=n
+1 horde
+Numsenses 3 Nodecount= 37
+PCH= ferocious.a
+POS=a
+3 ferocious
+Numsenses 1 Nodecount= 38
+PCH= army.n
+POS=n
+1 army
+Numsenses 3 Nodecount= 41
+PCH= ants.n
+POS=n
+1 ants
+1 a
+Numsenses 7 Nodecount= 48Num_senses hoe 1
+Num_senses large 7
+Num_senses glass 7
+Num_senses water 6
+Num_senses small 10
+Num_senses village 3
+Num_senses horde 3
+Num_senses ferocious 1
+Num_senses army 3
+Num_senses a 7
+
+Assign weights done
+
+Done calculating
+hash = 4606
+Sentence number 7Hash tag=4606hash = 4732
+Sentence number 7Hash tag=4732hash = 4481
+Sentence number 7Hash tag=4481hash = 5064
+Sentence number 7Hash tag=5064hash = 4661
+Sentence number 7Hash tag=4661hash = 4549
+Sentence number 7Hash tag=4549hash = 4024
+Sentence number 7Hash tag=4024hash = 4677
+Sentence number 7Hash tag=4677hash = 4770
+Sentence number 7Hash tag=4770hash = 4741
+Sentence number 7Hash tag=4741I.p play.v bluegrass[?].n I.p scouted.v  I.p subject.n numerous.a 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= play.v
+POS=v
+2 play
+Numsenses 35 Nodecount= 35
+PCH= bluegrass[?].n
+POS=n
+1 bluegrass[?] Nodecount= 35
+PCH= I.p
+POS=p
+4 I Nodecount= 35
+PCH= scouted.v
+POS=v
+2 scouted
+2 sco Nodecount= 35
+PCH= I.p
+POS=p
+4 I Nodecount= 35
+PCH= subject.n
+POS=n
+1 subject
+Numsenses 8 Nodecount= 43
+PCH= numerous.a
+POS=a
+3 numerous
+Numsenses 1 Nodecount= 44Num_senses play 35
+Num_senses subject 8
+Num_senses numerous 1
+
+Assign weights done
+
+Done calculating
+hash = 4150
+Sentence number 8Hash tag=4150hash = 5135
+Sentence number 8Hash tag=5135hash = 4752
+Sentence number 8Hash tag=4752bored.v I.p build.v large.a suspension.n bridges.n yard.n 
+PCH= bored.v
+POS=v
+2 bored
+2 bo Nodecount= 0
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= build.v
+POS=v
+2 build
+Numsenses 10 Nodecount= 10
+PCH= large.a
+POS=a
+3 large
+Numsenses 7 Nodecount= 17
+PCH= suspension.n
+POS=n
+1 suspension
+Numsenses 7 Nodecount= 24
+PCH= bridges.n
+POS=n
+1 bridges
+Numsenses 1 Nodecount= 25
+PCH= yard.n
+POS=n
+1 yard
+Numsenses 9 Nodecount= 34Num_senses build 10
+Num_senses large 7
+Num_senses suspension 7
+Num_senses bridges 1
+Num_senses yard 9
+
+Assign weights done
+
+Done calculating
+hash = 4759
+Sentence number 9Hash tag=4759hash = 4840
+Sentence number 9Hash tag=4840hash = 4859
+Sentence number 9Hash tag=4859hash = 4481
+Sentence number 9Hash tag=4481hash = 4710
+Sentence number 9Hash tag=4710I.p enjoy.v urban.a gliding.v 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= enjoy.v
+POS=v
+2 enjoy
+Numsenses 5 Nodecount= 5
+PCH= urban.a
+POS=a
+3 urban
+Numsenses 2 Nodecount= 7
+PCH= gliding.v
+POS=v
+2 gliding
+2 gli Nodecount= 7Num_senses enjoy 5
+Num_senses urban 2
+
+Assign weights done
+
+Done calculating
+hash = 4507
+Sentence number 10Hash tag=4507hash = 4769
+Sentence number 10Hash tag=4769school.n I.p repair.v electrical.a appliances.n free.a charge.n 
+PCH= school.n
+POS=n
+1 school
+Numsenses 7 Nodecount= 7
+PCH= I.p
+POS=p
+4 I Nodecount= 7
+PCH= repair.v
+POS=v
+2 repair
+Numsenses 5 Nodecount= 12
+PCH= electrical.a
+POS=a
+3 electrical
+Numsenses 2 Nodecount= 14
+PCH= appliances.n
+POS=n
+1 appliances
+1 applian Nodecount= 14
+PCH= free.a
+POS=a
+3 free
+Numsenses 9 Nodecount= 23
+PCH= charge.n
+POS=n
+1 charge
+Numsenses 15 Nodecount= 38Num_senses school 7
+Num_senses repair 5
+Num_senses electrical 2
+Num_senses free 9
+Num_senses charge 15
+
+Assign weights done
+
+Done calculating
+hash = 4515
+Sentence number 11Hash tag=4515hash = 4649
+Sentence number 11Hash tag=4649hash = 5010
+Sentence number 11Hash tag=5010hash = 4859
+Sentence number 11Hash tag=4859hash = 4879
+Sentence number 11Hash tag=4879I.p abstract.n artist.n concrete.n analyst.n ruthless.a bookie.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= abstract.n
+POS=n
+1 abstract
+Numsenses 2 Nodecount= 2
+PCH= artist.n
+POS=n
+1 artist
+Numsenses 1 Nodecount= 3
+PCH= concrete.n
+POS=n
+1 concrete
+Numsenses 1 Nodecount= 4
+PCH= analyst.n
+POS=n
+1 analyst
+Numsenses 3 Nodecount= 7
+PCH= ruthless.a
+POS=a
+3 ruthless
+Numsenses 1 Nodecount= 8
+PCH= bookie.n
+POS=n
+1 bookie
+Numsenses 1 Nodecount= 9Num_senses abstract 2
+Num_senses artist 1
+Num_senses concrete 1
+Num_senses analyst 3
+Num_senses ruthless 1
+Num_senses bookie 1
+
+Assign weights done
+
+Done calculating
+hash = 4782
+Sentence number 12Hash tag=4782hash = 4967
+Sentence number 12Hash tag=4967hash = 4745
+Sentence number 12Hash tag=4745hash = 4989
+Sentence number 12Hash tag=4989hash = 4827
+Sentence number 12Hash tag=4827hash = 4621
+Sentence number 12Hash tag=4621Critics.n swoon.v  original.n line.n corduroy.n evening.v 
+PCH= Critics.n
+POS=n
+1 Critics
+1 crit Nodecount= 0
+PCH= swoon.v
+POS=v
+2 swoon
+Numsenses 1 Nodecount= 1
+PCH= original.n
+POS=n
+1 original
+Numsenses 2 Nodecount= 3
+PCH= line.n
+POS=n
+1 line
+Numsenses 30 Nodecount= 33
+PCH= corduroy.n
+POS=n
+1 corduroy
+Numsenses 2 Nodecount= 35
+PCH= evening.v
+POS=v
+2 evening
+2 ev Nodecount= 35Num_senses swoon 1
+Num_senses original 2
+Num_senses line 30
+Num_senses corduroy 2
+
+Assign weights done
+
+Done calculating
+hash = 4867
+Sentence number 13Hash tag=4867hash = 4583
+Sentence number 13Hash tag=4583hash = 4485
+Sentence number 13Hash tag=4485hash = 4686
+Sentence number 13Hash tag=4686I.p  perspire.v 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= perspire.v
+POS=v
+2 perspire
+Numsenses 1 Nodecount= 1Num_senses perspire 1
+
+Assign weights done
+
+Done calculating
+hash = 4784
+Sentence number 14Hash tag=4784I.p private.n citizen.n I.p receive.v fan.n mail.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= private.n
+POS=n
+1 private
+Numsenses 1 Nodecount= 1
+PCH= citizen.n
+POS=n
+1 citizen
+Numsenses 1 Nodecount= 2
+PCH= I.p
+POS=p
+4 I Nodecount= 2
+PCH= receive.v
+POS=v
+2 receive
+Numsenses 13 Nodecount= 15
+PCH= fan.n
+POS=n
+1 fan
+Numsenses 3 Nodecount= 18
+PCH= mail.n
+POS=n
+1 mail
+Numsenses 5 Nodecount= 23Num_senses private 1
+Num_senses citizen 1
+Num_senses receive 13
+Num_senses fan 3
+Num_senses mail 5
+
+Assign weights done
+
+Done calculating
+hash = 4827
+Sentence number 15Hash tag=4827hash = 4825
+Sentence number 15Hash tag=4825hash = 4919
+Sentence number 15Hash tag=4919hash = 4516
+Sentence number 15Hash tag=4516hash = 4923
+Sentence number 15Hash tag=4923I.p  won.v weekend.n passes.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= won.v
+POS=v
+2 won
+2 w Nodecount= 0
+PCH= weekend.n
+POS=n
+1 weekend
+Numsenses 1 Nodecount= 1
+PCH= passes.n
+POS=n
+1 passes
+1 pa
+Numsenses 5 Nodecount= 6Num_senses weekend 1
+Num_senses pa 5
+
+Assign weights done
+
+Done calculating
+hash = 4944
+Sentence number 16Hash tag=4944hash = 4973
+Sentence number 16Hash tag=4973Last.a summer.i I.p toured.v   traveling.v  demonstration.n 
+PCH= Last.a
+POS=a
+3 Last
+Numsenses 9 Nodecount= 9
+PCH= summer.i
+POS=i
+4 summer Nodecount= 9
+PCH= I.p
+POS=p
+4 I Nodecount= 9
+PCH= toured.v
+POS=v
+2 toured
+2 to Nodecount= 9
+PCH= traveling.v
+POS=v
+2 traveling
+2 trav Nodecount= 9
+PCH= demonstration.n
+POS=n
+1 demonstration
+Numsenses 5 Nodecount= 14Num_senses last 9
+Num_senses demonstration 5
+
+Assign weights done
+
+Done calculating
+hash = 4544
+Sentence number 17Hash tag=4544hash = 5082
+Sentence number 17Hash tag=5082I.p bat.v 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= bat.v
+POS=v
+2 bat
+Numsenses 5 Nodecount= 5Num_senses bat 5
+
+Assign weights done
+
+Done calculating
+hash = 4373
+Sentence number 18Hash tag=4373 
+Assign weights done
+
+Done calculating
+deft.a floral.a arrangements.n earned.v international.a botany.n circles.n 
+PCH= deft.a
+POS=a
+3 deft
+Numsenses 1 Nodecount= 1
+PCH= floral.a
+POS=a
+3 floral
+Numsenses 3 Nodecount= 4
+PCH= arrangements.n
+POS=n
+1 arrangements
+1 arrangeme Nodecount= 4
+PCH= earned.v
+POS=v
+2 earned
+2 ea Nodecount= 4
+PCH= international.a
+POS=a
+3 international
+Numsenses 2 Nodecount= 6
+PCH= botany.n
+POS=n
+1 botany
+Numsenses 2 Nodecount= 8
+PCH= circles.n
+POS=n
+1 circles
+1 circ Nodecount= 8Num_senses deft 1
+Num_senses floral 3
+Num_senses international 2
+Num_senses botany 2
+
+Assign weights done
+
+Done calculating
+hash = 4737
+Sentence number 20Hash tag=4737hash = 4790
+Sentence number 20Hash tag=4790hash = 4925
+Sentence number 20Hash tag=4925hash = 4701
+Sentence number 20Hash tag=4701Children.n trust.v 
+PCH= Children.n
+POS=n
+1 Children
+1 chi
+Numsenses 2 Nodecount= 2
+PCH= trust.v
+POS=v
+2 trust
+Numsenses 6 Nodecount= 8Num_senses chi 2
+Num_senses trust 6
+
+Assign weights done
+
+Done calculating
+hash = 4318
+Sentence number 21Hash tag=4318hash = 4614
+Sentence number 21Hash tag=4614I.p hurl.v tennis.n rackets.n small.a moving.a objects.n deadly.a accuracy.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= hurl.v
+POS=v
+2 hurl
+Numsenses 3 Nodecount= 3
+PCH= tennis.n
+POS=n
+1 tennis
+Numsenses 1 Nodecount= 4
+PCH= rackets.n
+POS=n
+1 rackets
+1 rack
+Numsenses 7 Nodecount= 11
+PCH= small.a
+POS=a
+3 small
+Numsenses 10 Nodecount= 21
+PCH= moving.a
+POS=a
+3 moving
+Numsenses 3 Nodecount= 24
+PCH= objects.n
+POS=n
+1 objects
+1 obje Nodecount= 24
+PCH= deadly.a
+POS=a
+3 deadly
+Numsenses 6 Nodecount= 30
+PCH= accuracy.n
+POS=n
+1 accuracy
+Numsenses 2 Nodecount= 32Num_senses hurl 3
+Num_senses tennis 1
+Num_senses rack 7
+Num_senses small 10
+Num_senses moving 3
+Num_senses deadly 6
+Num_senses accuracy 2
+
+Assign weights done
+
+Done calculating
+hash = 4445
+Sentence number 22Hash tag=4445hash = 4776
+Sentence number 22Hash tag=4776hash = 4627
+Sentence number 22Hash tag=4627hash = 4719
+Sentence number 22Hash tag=4719hash = 4905
+Sentence number 22Hash tag=4905hash = 4937
+Sentence number 22Hash tag=4937hash = 4794
+Sentence number 22Hash tag=4794I.p  read.v        day.n still.e time.n refurbish.v entire.a dining.g room.n evening.t 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= read.v
+POS=v
+2 read
+Numsenses 11 Nodecount= 11
+PCH= day.n
+POS=n
+1 day
+Numsenses 10 Nodecount= 21
+PCH= still.e
+POS=e
+4 still
+Numsenses 4 Nodecount= 25
+PCH= time.n
+POS=n
+1 time
+Numsenses 10 Nodecount= 35
+PCH= refurbish.v
+POS=v
+2 refurbish
+Numsenses 1 Nodecount= 36
+PCH= entire.a
+POS=a
+3 entire
+Numsenses 4 Nodecount= 40
+PCH= dining.g
+POS=g
+4 dining Nodecount= 40
+PCH= room.n
+POS=n
+1 room
+Numsenses 4 Nodecount= 44
+PCH= evening.t
+POS=t
+4 evening Nodecount= 44Num_senses read 11
+Num_senses day 10
+Num_senses still 4
+Num_senses time 10
+Num_senses refurbish 1
+Num_senses entire 4
+Num_senses room 4
+
+Assign weights done
+
+Done calculating
+hash = 4371
+Sentence number 23Hash tag=4371hash = 4790
+Sentence number 23Hash tag=4790hash = 4732
+Sentence number 23Hash tag=4732hash = 4661
+Sentence number 23Hash tag=4661hash = 4706
+Sentence number 23Hash tag=4706hash = 5075
+Sentence number 23Hash tag=5075hash = 4695
+Sentence number 23Hash tag=4695I.p know.v exact.a location.n food.n item.n supermarket.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= know.v
+POS=v
+2 know
+Numsenses 11 Nodecount= 11
+PCH= exact.a
+POS=a
+3 exact
+Numsenses 2 Nodecount= 13
+PCH= location.n
+POS=n
+1 location
+Numsenses 4 Nodecount= 17
+PCH= food.n
+POS=n
+1 food
+Numsenses 3 Nodecount= 20
+PCH= item.n
+POS=n
+1 item
+Numsenses 5 Nodecount= 25
+PCH= supermarket.n
+POS=n
+1 supermarket
+Numsenses 1 Nodecount= 26Num_senses know 11
+Num_senses exact 2
+Num_senses location 4
+Num_senses food 3
+Num_senses item 5
+Num_senses supermarket 1
+
+Assign weights done
+
+Done calculating
+hash = 4464
+Sentence number 24Hash tag=4464hash = 4914
+Sentence number 24Hash tag=4914hash = 4308
+Sentence number 24Hash tag=4308hash = 4683
+Sentence number 24Hash tag=4683hash = 4845
+Sentence number 24Hash tag=4845hash = 4925
+Sentence number 24Hash tag=4925I.p performed.v  covert.n operations.n  
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= performed.v
+POS=v
+2 performed
+2 perfo Nodecount= 0
+PCH= covert.n
+POS=n
+1 covert
+Numsenses 2 Nodecount= 2
+PCH= operations.n
+POS=n
+1 operations
+Numsenses 1 Nodecount= 3Num_senses covert 2
+Num_senses operations 1
+
+Assign weights done
+
+Done calculating
+hash = 4866
+Sentence number 25Hash tag=4866hash = 4930
+Sentence number 25Hash tag=4930I.p sleep.v  week.p I.p sleep.v I.p sleep.v chair.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= sleep.v
+POS=v
+2 sleep
+Numsenses 2 Nodecount= 2
+PCH= week.p
+POS=p
+4 week Nodecount= 2
+PCH= I.p
+POS=p
+4 I Nodecount= 2
+PCH= sleep.v
+POS=v
+2 sleep
+Numsenses 2 Nodecount= 4
+PCH= I.p
+POS=p
+4 I Nodecount= 4
+PCH= sleep.v
+POS=v
+2 sleep
+Numsenses 2 Nodecount= 6
+PCH= chair.n
+POS=n
+1 chair
+Numsenses 5 Nodecount= 11Num_senses sleep 2
+Num_senses sleep 2
+Num_senses sleep 2
+Num_senses chair 5
+
+Assign weights done
+
+Done calculating
+hash = 3581
+Sentence number 26Hash tag=3581hash = 4640
+Sentence number 26Hash tag=4640hash = 4640
+Sentence number 26Hash tag=4640hash = 4935
+Sentence number 26Hash tag=4935vacation.n  I.p  negotiated.v group.n terrorists.n seized.v small.a bakery.n 
+PCH= vacation.n
+POS=n
+1 vacation
+Numsenses 2 Nodecount= 2
+PCH= I.p
+POS=p
+4 I Nodecount= 2
+PCH= negotiated.v
+POS=v
+2 negotiated
+2 negotia Nodecount= 2
+PCH= group.n
+POS=n
+1 group
+Numsenses 3 Nodecount= 5
+PCH= terrorists.n
+POS=n
+1 terrorists
+1 terrori Nodecount= 5
+PCH= seized.v
+POS=v
+2 seized
+2 sei Nodecount= 5
+PCH= small.a
+POS=a
+3 small
+Numsenses 10 Nodecount= 15
+PCH= bakery.n
+POS=n
+1 bakery
+Numsenses 1 Nodecount= 16Num_senses vacation 2
+Num_senses group 3
+Num_senses small 10
+Num_senses bakery 1
+
+Assign weights done
+
+Done calculating
+hash = 4618
+Sentence number 27Hash tag=4618hash = 4648
+Sentence number 27Hash tag=4648hash = 4645
+Sentence number 27Hash tag=4645hash = 4731
+Sentence number 27Hash tag=4731laws.n physics.n apply.v 
+PCH= laws.n
+POS=n
+1 laws
+Numsenses 1 Nodecount= 1
+PCH= physics.n
+POS=n
+1 physics
+Numsenses 2 Nodecount= 3
+PCH= apply.v
+POS=v
+2 apply
+Numsenses 10 Nodecount= 13Num_senses laws 1
+Num_senses physics 2
+Num_senses apply 10
+
+Assign weights done
+
+Done calculating
+hash = 4945
+Sentence number 28Hash tag=4945hash = 4803
+Sentence number 28Hash tag=4803hash = 4999
+Sentence number 28Hash tag=4999I.p balance.n I.p I.p I.p bills.n paid.v 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= balance.n
+POS=n
+1 balance
+Numsenses 12 Nodecount= 12
+PCH= I.p
+POS=p
+4 I Nodecount= 12
+PCH= I.p
+POS=p
+4 I Nodecount= 12
+PCH= I.p
+POS=p
+4 I Nodecount= 12
+PCH= bills.n
+POS=n
+1 bills
+1 bi
+Numsenses 1 Nodecount= 13
+PCH= paid.v
+POS=v
+2 paid
+2 p Nodecount= 13Num_senses balance 12
+Num_senses bi 1
+
+Assign weights done
+
+Done calculating
+hash = 4656
+Sentence number 29Hash tag=4656hash = 4991
+Sentence number 29Hash tag=4991weekends.n steam.n I.p participate.v  origami[?].n 
+PCH= weekends.n
+POS=n
+1 weekends
+1 weeke Nodecount= 0
+PCH= steam.n
+POS=n
+1 steam
+Numsenses 1 Nodecount= 1
+PCH= I.p
+POS=p
+4 I Nodecount= 1
+PCH= participate.v
+POS=v
+2 participate
+Numsenses 2 Nodecount= 3
+PCH= origami[?].n
+POS=n
+1 origami[?] Nodecount= 3Num_senses steam 1
+Num_senses participate 2
+
+Assign weights done
+
+Done calculating
+hash = 4867
+Sentence number 30Hash tag=4867hash = 4302
+Sentence number 30Hash tag=4302Years.p  I.p discovered.v meaning.g life.n forgot.v write.v down.e 
+PCH= Years.p
+POS=p
+4 Years Nodecount= 0
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= discovered.v
+POS=v
+2 discovered
+2 discov Nodecount= 0
+PCH= meaning.g
+POS=g
+4 meaning Nodecount= 0
+PCH= life.n
+POS=n
+1 life
+Numsenses 14 Nodecount= 14
+PCH= forgot.v
+POS=v
+2 forgot
+2 forg Nodecount= 14
+PCH= write.v
+POS=v
+2 write
+Numsenses 10 Nodecount= 24
+PCH= down.e
+POS=e
+4 down
+Numsenses 6 Nodecount= 30Num_senses life 14
+Num_senses write 10
+Num_senses down 6
+
+Assign weights done
+
+Done calculating
+hash = 4400
+Sentence number 31Hash tag=4400hash = 4720
+Sentence number 31Hash tag=4720hash = 4734
+Sentence number 31Hash tag=4734I.p made.v  course.n meals.n using.v mouli[?].n toaster.n oven.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= made.v
+POS=v
+2 made
+2 ma Nodecount= 0
+PCH= course.n
+POS=n
+1 course
+Numsenses 9 Nodecount= 9
+PCH= meals.n
+POS=n
+1 meals
+1 me
+Numsenses 1 Nodecount= 10
+PCH= using.v
+POS=v
+2 using
+2 u Nodecount= 10
+PCH= mouli[?].n
+POS=n
+1 mouli[?] Nodecount= 10
+PCH= toaster.n
+POS=n
+1 toaster
+Numsenses 2 Nodecount= 12
+PCH= oven.n
+POS=n
+1 oven
+Numsenses 1 Nodecount= 13Num_senses course 9
+Num_senses me 1
+Num_senses toaster 2
+Num_senses oven 1
+
+Assign weights done
+
+Done calculating
+hash = 4766
+Sentence number 32Hash tag=4766hash = 4054
+Sentence number 32Hash tag=4054hash = 4731
+Sentence number 32Hash tag=4731hash = 4734
+Sentence number 32Hash tag=4734I.p breed.v clams.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= breed.v
+POS=v
+2 breed
+Numsenses 4 Nodecount= 4
+PCH= clams.n
+POS=n
+1 clams
+Numsenses 1 Nodecount= 5Num_senses breed 4
+Num_senses clams 1
+
+Assign weights done
+
+Done calculating
+hash = 3795
+Sentence number 33Hash tag=3795hash = 4531
+Sentence number 33Hash tag=4531I.p won.v bullfights.n    competitions.n   spelling.g bees.n  
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= won.v
+POS=v
+2 won
+2 w Nodecount= 0
+PCH= bullfights.n
+POS=n
+1 bullfights
+1 bullfig Nodecount= 0
+PCH= competitions.n
+POS=n
+1 competitions
+1 competiti Nodecount= 0
+PCH= spelling.g
+POS=g
+4 spelling Nodecount= 0
+PCH= bees.n
+POS=n
+1 bees
+1 b
+Numsenses 7 Nodecount= 7Num_senses b 7
+
+Assign weights done
+
+Done calculating
+hash = 5036
+Sentence number 34Hash tag=5036I.p played.v  I.p performed.v  surgery.n I.p spoken.v  
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= played.v
+POS=v
+2 played
+2 pl Nodecount= 0
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= performed.v
+POS=v
+2 performed
+2 perfo Nodecount= 0
+PCH= surgery.n
+POS=n
+1 surgery
+Numsenses 4 Nodecount= 4
+PCH= I.p
+POS=p
+4 I Nodecount= 4
+PCH= spoken.v
+POS=v
+2 spoken
+2 spe Nodecount= 4Num_senses surgery 4
+
+Assign weights done
+
+Done calculating
+hash = 4882
+Sentence number 35Hash tag=4882I.p gone.v college.n 
+PCH= I.p
+POS=p
+4 I Nodecount= 0
+PCH= gone.v
+POS=v
+2 gone
+2  Nodecount= 0
+PCH= college.n
+POS=n
+1 college
+Numsenses 3 Nodecount= 3Num_senses college 3
+
+Assign weights done
+
+Done calculating
+hash = 4594
+Sentence number 36Hash tag=4594
+Hash value =3581 Frequency =1 Priority=0Sentence numbers=26 
+Hash value =3795 Frequency =1 Priority=0Sentence numbers=33 
+Hash value =3802 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =4024 Frequency =1 Priority=0Sentence numbers=7 
+Hash value =4054 Frequency =1 Priority=0Sentence numbers=32 
+Hash value =4116 Frequency =1 Priority=0Sentence numbers=4 
+Hash value =4150 Frequency =1 Priority=0Sentence numbers=8 
+Hash value =4302 Frequency =1 Priority=0Sentence numbers=30 
+Hash value =4308 Frequency =1 Priority=0Sentence numbers=24 
+Hash value =4318 Frequency =1 Priority=0Sentence numbers=21 
+Hash value =4358 Frequency =1 Priority=0Sentence numbers=3 
+Hash value =4371 Frequency =1 Priority=0Sentence numbers=23 
+Hash value =4373 Frequency =1 Priority=0Sentence numbers=18 
+Hash value =4400 Frequency =1 Priority=0Sentence numbers=31 
+Hash value =4414 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =4445 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4464 Frequency =1 Priority=0Sentence numbers=24 
+Hash value =4481 Frequency =3 Priority=0Sentence numbers=5 7 9 
+Hash value =4485 Frequency =1 Priority=0Sentence numbers=13 
+Hash value =4507 Frequency =1 Priority=0Sentence numbers=10 
+Hash value =4515 Frequency =1 Priority=0Sentence numbers=11 
+Hash value =4516 Frequency =1 Priority=0Sentence numbers=15 
+Hash value =4521 Frequency =1 Priority=0Sentence numbers=6 
+Hash value =4531 Frequency =1 Priority=0Sentence numbers=33 
+Hash value =4544 Frequency =1 Priority=0Sentence numbers=17 
+Hash value =4549 Frequency =1 Priority=0Sentence numbers=7 
+Hash value =4583 Frequency =1 Priority=0Sentence numbers=13 
+Hash value =4594 Frequency =1 Priority=0Sentence numbers=36 
+Hash value =4599 Frequency =1 Priority=0Sentence numbers=6 
+Hash value =4606 Frequency =1 Priority=0Sentence numbers=7 
+Hash value =4612 Frequency =1 Priority=0Sentence numbers=3 
+Hash value =4614 Frequency =1 Priority=0Sentence numbers=21 
+Hash value =4618 Frequency =1 Priority=0Sentence numbers=27 
+Hash value =4621 Frequency =1 Priority=0Sentence numbers=12 
+Hash value =4627 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4640 Frequency =2 Priority=0Sentence numbers=26 
+Hash value =4645 Frequency =1 Priority=0Sentence numbers=27 
+Hash value =4648 Frequency =1 Priority=0Sentence numbers=27 
+Hash value =4649 Frequency =1 Priority=0Sentence numbers=11 
+Hash value =4656 Frequency =1 Priority=0Sentence numbers=29 
+Hash value =4661 Frequency =2 Priority=0Sentence numbers=7 23 
+Hash value =4671 Frequency =1 Priority=0Sentence numbers=1 
+Hash value =4677 Frequency =2 Priority=0Sentence numbers=5 7 
+Hash value =4682 Frequency =1 Priority=0Sentence numbers=5 
+Hash value =4683 Frequency =1 Priority=0Sentence numbers=24 
+Hash value =4686 Frequency =1 Priority=0Sentence numbers=13 
+Hash value =4693 Frequency =1 Priority=0Sentence numbers=4 
+Hash value =4695 Frequency =1 Priority=0Sentence numbers=23 
+Hash value =4701 Frequency =2 Priority=0Sentence numbers=2 20 
+Hash value =4706 Frequency =1 Priority=0Sentence numbers=23 
+Hash value =4710 Frequency =1 Priority=0Sentence numbers=9 
+Hash value =4712 Frequency =1 Priority=0Sentence numbers=1 
+Hash value =4719 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4720 Frequency =2 Priority=0Sentence numbers=3 31 
+Hash value =4727 Frequency =1 Priority=0Sentence numbers=3 
+Hash value =4731 Frequency =2 Priority=0Sentence numbers=27 32 
+Hash value =4732 Frequency =2 Priority=0Sentence numbers=7 23 
+Hash value =4734 Frequency =2 Priority=0Sentence numbers=31 32 
+Hash value =4735 Frequency =1 Priority=0Sentence numbers=6 
+Hash value =4737 Frequency =1 Priority=0Sentence numbers=20 
+Hash value =4741 Frequency =1 Priority=0Sentence numbers=7 
+Hash value =4745 Frequency =1 Priority=0Sentence numbers=12 
+Hash value =4752 Frequency =1 Priority=0Sentence numbers=8 
+Hash value =4757 Frequency =1 Priority=0Sentence numbers=5 
+Hash value =4759 Frequency =1 Priority=0Sentence numbers=9 
+Hash value =4761 Frequency =1 Priority=0Sentence numbers=5 
+Hash value =4766 Frequency =1 Priority=0Sentence numbers=32 
+Hash value =4769 Frequency =1 Priority=0Sentence numbers=10 
+Hash value =4770 Frequency =1 Priority=0Sentence numbers=7 
+Hash value =4771 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =4772 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =4776 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4782 Frequency =1 Priority=0Sentence numbers=12 
+Hash value =4784 Frequency =1 Priority=0Sentence numbers=14 
+Hash value =4788 Frequency =1 Priority=0Sentence numbers=1 
+Hash value =4790 Frequency =2 Priority=0Sentence numbers=20 23 
+Hash value =4794 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4796 Frequency =1 Priority=0Sentence numbers=5 
+Hash value =4803 Frequency =1 Priority=0Sentence numbers=28 
+Hash value =4825 Frequency =1 Priority=0Sentence numbers=15 
+Hash value =4827 Frequency =2 Priority=0Sentence numbers=12 15 
+Hash value =4840 Frequency =2 Priority=0Sentence numbers=5 9 
+Hash value =4841 Frequency =1 Priority=0Sentence numbers=3 
+Hash value =4845 Frequency =1 Priority=0Sentence numbers=24 
+Hash value =4859 Frequency =2 Priority=0Sentence numbers=9 11 
+Hash value =4866 Frequency =1 Priority=0Sentence numbers=25 
+Hash value =4867 Frequency =2 Priority=0Sentence numbers=13 30 
+Hash value =4869 Frequency =1 Priority=0Sentence numbers=3 
+Hash value =4870 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =4876 Frequency =1 Priority=0Sentence numbers=6 
+Hash value =4879 Frequency =1 Priority=0Sentence numbers=11 
+Hash value =4880 Frequency =1 Priority=0Sentence numbers=4 
+Hash value =4882 Frequency =1 Priority=0Sentence numbers=35 
+Hash value =4904 Frequency =1 Priority=0Sentence numbers=3 
+Hash value =4905 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4914 Frequency =1 Priority=0Sentence numbers=24 
+Hash value =4919 Frequency =1 Priority=0Sentence numbers=15 
+Hash value =4923 Frequency =1 Priority=0Sentence numbers=15 
+Hash value =4924 Frequency =1 Priority=0Sentence numbers=5 
+Hash value =4925 Frequency =2 Priority=0Sentence numbers=20 24 
+Hash value =4930 Frequency =1 Priority=0Sentence numbers=25 
+Hash value =4935 Frequency =1 Priority=0Sentence numbers=26 
+Hash value =4937 Frequency =1 Priority=0Sentence numbers=22 
+Hash value =4944 Frequency =1 Priority=0Sentence numbers=16 
+Hash value =4945 Frequency =1 Priority=0Sentence numbers=28 
+Hash value =4949 Frequency =1 Priority=0Sentence numbers=6 
+Hash value =4967 Frequency =1 Priority=0Sentence numbers=12 
+Hash value =4973 Frequency =1 Priority=0Sentence numbers=16 
+Hash value =4989 Frequency =1 Priority=0Sentence numbers=12 
+Hash value =4991 Frequency =1 Priority=0Sentence numbers=29 
+Hash value =4999 Frequency =1 Priority=0Sentence numbers=28 
+Hash value =5010 Frequency =1 Priority=0Sentence numbers=11 
+Hash value =5036 Frequency =1 Priority=0Sentence numbers=34 
+Hash value =5064 Frequency =2 Priority=0Sentence numbers=4 7 
+Hash value =5074 Frequency =1 Priority=0Sentence numbers=1 
+Hash value =5075 Frequency =1 Priority=0Sentence numbers=23 
+Hash value =5078 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =5082 Frequency =1 Priority=0Sentence numbers=17 
+Hash value =5086 Frequency =1 Priority=0Sentence numbers=2 
+Hash value =5117 Frequency =1 Priority=0Sentence numbers=5 
+Hash value =5135 Frequency =1 Priority=0Sentence numbers=8 Size of hash table=121
+ RANKING
+ranking done
+
+
+Hash value =3581 Frequency =1 Priority=2Sentence numbers=26 
+Hash value =3795 Frequency =1 Priority=2Sentence numbers=33 
+Hash value =3802 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =4024 Frequency =1 Priority=2Sentence numbers=7 
+Hash value =4054 Frequency =1 Priority=2Sentence numbers=32 
+Hash value =4116 Frequency =1 Priority=2Sentence numbers=4 
+Hash value =4150 Frequency =1 Priority=2Sentence numbers=8 
+Hash value =4302 Frequency =1 Priority=2Sentence numbers=30 
+Hash value =4308 Frequency =1 Priority=2Sentence numbers=24 
+Hash value =4318 Frequency =1 Priority=2Sentence numbers=21 
+Hash value =4358 Frequency =1 Priority=2Sentence numbers=3 
+Hash value =4371 Frequency =1 Priority=2Sentence numbers=23 
+Hash value =4373 Frequency =1 Priority=2Sentence numbers=18 
+Hash value =4400 Frequency =1 Priority=2Sentence numbers=31 
+Hash value =4414 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =4445 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4464 Frequency =1 Priority=2Sentence numbers=24 
+Hash value =4481 Frequency =3 Priority=0Sentence numbers=5 7 9 
+Hash value =4485 Frequency =1 Priority=2Sentence numbers=13 
+Hash value =4507 Frequency =1 Priority=2Sentence numbers=10 
+Hash value =4515 Frequency =1 Priority=2Sentence numbers=11 
+Hash value =4516 Frequency =1 Priority=2Sentence numbers=15 
+Hash value =4521 Frequency =1 Priority=2Sentence numbers=6 
+Hash value =4531 Frequency =1 Priority=2Sentence numbers=33 
+Hash value =4544 Frequency =1 Priority=2Sentence numbers=17 
+Hash value =4549 Frequency =1 Priority=2Sentence numbers=7 
+Hash value =4583 Frequency =1 Priority=2Sentence numbers=13 
+Hash value =4594 Frequency =1 Priority=2Sentence numbers=36 
+Hash value =4599 Frequency =1 Priority=2Sentence numbers=6 
+Hash value =4606 Frequency =1 Priority=2Sentence numbers=7 
+Hash value =4612 Frequency =1 Priority=2Sentence numbers=3 
+Hash value =4614 Frequency =1 Priority=2Sentence numbers=21 
+Hash value =4618 Frequency =1 Priority=2Sentence numbers=27 
+Hash value =4621 Frequency =1 Priority=2Sentence numbers=12 
+Hash value =4627 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4640 Frequency =2 Priority=1Sentence numbers=26 
+Hash value =4645 Frequency =1 Priority=2Sentence numbers=27 
+Hash value =4648 Frequency =1 Priority=2Sentence numbers=27 
+Hash value =4649 Frequency =1 Priority=2Sentence numbers=11 
+Hash value =4656 Frequency =1 Priority=2Sentence numbers=29 
+Hash value =4661 Frequency =2 Priority=1Sentence numbers=7 23 
+Hash value =4671 Frequency =1 Priority=2Sentence numbers=1 
+Hash value =4677 Frequency =2 Priority=1Sentence numbers=5 7 
+Hash value =4682 Frequency =1 Priority=2Sentence numbers=5 
+Hash value =4683 Frequency =1 Priority=2Sentence numbers=24 
+Hash value =4686 Frequency =1 Priority=2Sentence numbers=13 
+Hash value =4693 Frequency =1 Priority=2Sentence numbers=4 
+Hash value =4695 Frequency =1 Priority=2Sentence numbers=23 
+Hash value =4701 Frequency =2 Priority=1Sentence numbers=2 20 
+Hash value =4706 Frequency =1 Priority=2Sentence numbers=23 
+Hash value =4710 Frequency =1 Priority=2Sentence numbers=9 
+Hash value =4712 Frequency =1 Priority=2Sentence numbers=1 
+Hash value =4719 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4720 Frequency =2 Priority=1Sentence numbers=3 31 
+Hash value =4727 Frequency =1 Priority=2Sentence numbers=3 
+Hash value =4731 Frequency =2 Priority=1Sentence numbers=27 32 
+Hash value =4732 Frequency =2 Priority=1Sentence numbers=7 23 
+Hash value =4734 Frequency =2 Priority=1Sentence numbers=31 32 
+Hash value =4735 Frequency =1 Priority=2Sentence numbers=6 
+Hash value =4737 Frequency =1 Priority=2Sentence numbers=20 
+Hash value =4741 Frequency =1 Priority=2Sentence numbers=7 
+Hash value =4745 Frequency =1 Priority=2Sentence numbers=12 
+Hash value =4752 Frequency =1 Priority=2Sentence numbers=8 
+Hash value =4757 Frequency =1 Priority=2Sentence numbers=5 
+Hash value =4759 Frequency =1 Priority=2Sentence numbers=9 
+Hash value =4761 Frequency =1 Priority=2Sentence numbers=5 
+Hash value =4766 Frequency =1 Priority=2Sentence numbers=32 
+Hash value =4769 Frequency =1 Priority=2Sentence numbers=10 
+Hash value =4770 Frequency =1 Priority=2Sentence numbers=7 
+Hash value =4771 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =4772 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =4776 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4782 Frequency =1 Priority=2Sentence numbers=12 
+Hash value =4784 Frequency =1 Priority=2Sentence numbers=14 
+Hash value =4788 Frequency =1 Priority=2Sentence numbers=1 
+Hash value =4790 Frequency =2 Priority=1Sentence numbers=20 23 
+Hash value =4794 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4796 Frequency =1 Priority=2Sentence numbers=5 
+Hash value =4803 Frequency =1 Priority=2Sentence numbers=28 
+Hash value =4825 Frequency =1 Priority=2Sentence numbers=15 
+Hash value =4827 Frequency =2 Priority=1Sentence numbers=12 15 
+Hash value =4840 Frequency =2 Priority=1Sentence numbers=5 9 
+Hash value =4841 Frequency =1 Priority=2Sentence numbers=3 
+Hash value =4845 Frequency =1 Priority=2Sentence numbers=24 
+Hash value =4859 Frequency =2 Priority=1Sentence numbers=9 11 
+Hash value =4866 Frequency =1 Priority=2Sentence numbers=25 
+Hash value =4867 Frequency =2 Priority=1Sentence numbers=13 30 
+Hash value =4869 Frequency =1 Priority=2Sentence numbers=3 
+Hash value =4870 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =4876 Frequency =1 Priority=2Sentence numbers=6 
+Hash value =4879 Frequency =1 Priority=2Sentence numbers=11 
+Hash value =4880 Frequency =1 Priority=2Sentence numbers=4 
+Hash value =4882 Frequency =1 Priority=2Sentence numbers=35 
+Hash value =4904 Frequency =1 Priority=2Sentence numbers=3 
+Hash value =4905 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4914 Frequency =1 Priority=2Sentence numbers=24 
+Hash value =4919 Frequency =1 Priority=2Sentence numbers=15 
+Hash value =4923 Frequency =1 Priority=2Sentence numbers=15 
+Hash value =4924 Frequency =1 Priority=2Sentence numbers=5 
+Hash value =4925 Frequency =2 Priority=1Sentence numbers=20 24 
+Hash value =4930 Frequency =1 Priority=2Sentence numbers=25 
+Hash value =4935 Frequency =1 Priority=2Sentence numbers=26 
+Hash value =4937 Frequency =1 Priority=2Sentence numbers=22 
+Hash value =4944 Frequency =1 Priority=2Sentence numbers=16 
+Hash value =4945 Frequency =1 Priority=2Sentence numbers=28 
+Hash value =4949 Frequency =1 Priority=2Sentence numbers=6 
+Hash value =4967 Frequency =1 Priority=2Sentence numbers=12 
+Hash value =4973 Frequency =1 Priority=2Sentence numbers=16 
+Hash value =4989 Frequency =1 Priority=2Sentence numbers=12 
+Hash value =4991 Frequency =1 Priority=2Sentence numbers=29 
+Hash value =4999 Frequency =1 Priority=2Sentence numbers=28 
+Hash value =5010 Frequency =1 Priority=2Sentence numbers=11 
+Hash value =5036 Frequency =1 Priority=2Sentence numbers=34 
+Hash value =5064 Frequency =2 Priority=1Sentence numbers=4 7 
+Hash value =5074 Frequency =1 Priority=2Sentence numbers=1 
+Hash value =5075 Frequency =1 Priority=2Sentence numbers=23 
+Hash value =5078 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =5082 Frequency =1 Priority=2Sentence numbers=17 
+Hash value =5086 Frequency =1 Priority=2Sentence numbers=2 
+Hash value =5117 Frequency =1 Priority=2Sentence numbers=5 
+Hash value =5135 Frequency =1 Priority=2Sentence numbers=8 Size of hash table=121No of lines=7
+Pushing 5
+curline = 2
+Pushing 7
+curline = 3
+Pushing 9
+curline = 4
+Pushing 26
+curline = 5
+Pushing 23
+curline = 6
+Pushing 2
+curline = 7
+Pushing 20
+curline = 8
+ I translate ethnic slurs for Cuban refugees, I write award-winning operas, I manage time efficiently. I am an expert in stucco, a veteran in love, and an outlaw in Peru. I play bluegrass cello, I was scouted by the Mets, I am the subject of numerous documentaries. I enjoy urban hang gliding. Children trust me. I know the exact location of every food item in the supermarket. While on vacation in Canada, I successfully negotiated with a group of terrorists who had seized a small bakery.

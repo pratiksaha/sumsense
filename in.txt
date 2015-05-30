@@ -1,0 +1,9 @@
+Both Information Extraction and Text Summarization are related to other language processing applications. For example, Information Retrieval systems return sets of relevant documents in response to a query; hopefully the answer is contained in the documents. Thus IR can be used to locate strings within fixed corpus windows, producing Summarization (and, in the limit, IE-like) results. This is true mostly for query-based Extract summaries.
+
+IE is not the same as Question Answering by computer, because QA (usually) operates over databases and provides answers to specific queries, one at a time. It is clearly useful in QA applications, however.
+
+Similarly, both Summarization and IE can fruitfully be linked to Machine Translation (MT; see Chapter 4) to perform multilingual information access. One can, for example, translate a document and then perform IE on it as a whole, or one can first perform IE on it and then just translate the parts that IE returns.
+
+Despite such differences, it is becoming apparent that IE, QA, IR, Summarization, and MT form a complex of interrelated information access methods. In a typical application, IR may be performed before IE or summarization, to cut down text search; the database of templates that IE subsequently produces can then be searched with IR or QA, or can be summarized; the results can then be translated by MT. This ordering is not the only one, obviously, but reflects the relative speeds and costs of the different tasks.
+
+Mere document retrieval is inadequate for our needs. Full text understanding does not yet exist. Information extraction and summarization occupy a middle ground, providing needed functionality while at the same time being computationally feasible.
